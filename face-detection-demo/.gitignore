@@ -1,0 +1,8 @@
+# Screenshots saved with the s key
+face_demo_*.png
+
+# Files the script downloads or creates
+models/haarcascade_frontalface_default.xml
+models/*.part
+__pycache__/
+.ipynb_checkpoints/
