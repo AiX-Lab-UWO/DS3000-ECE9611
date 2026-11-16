@@ -5,6 +5,7 @@ Code demos for the course at Western University. Each demo is in its own folder 
 | Demo | What it shows |
 |---|---|
 | [face-detection-demo](face-detection-demo) | Live face detection on your laptop camera: a classic Haar cascade and the YuNet CNN, with step-by-step walkthroughs of how each one finds a face |
+| [clustering-demo](clustering-demo) | K-means, GMM and agglomerative clustering on the same data, evaluated with the silhouette score, plus the elbow method and a dendrogram for choosing K |
 
 ## Getting the code
 
